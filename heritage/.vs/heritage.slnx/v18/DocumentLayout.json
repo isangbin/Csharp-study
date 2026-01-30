@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ysb\\source\\repos\\heritage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E948D25-7CFE-4523-8D9F-E8E812400A15}|heritage\\heritage.csproj|c:\\users\\ysb\\source\\repos\\heritage\\heritage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E948D25-7CFE-4523-8D9F-E8E812400A15}|heritage\\heritage.csproj|solutionrelative:heritage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E948D25-7CFE-4523-8D9F-E8E812400A15}|heritage\\heritage.csproj|c:\\users\\ysb\\source\\repos\\heritage\\heritage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E948D25-7CFE-4523-8D9F-E8E812400A15}|heritage\\heritage.csproj|solutionrelative:heritage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E948D25-7CFE-4523-8D9F-E8E812400A15}|heritage\\heritage.csproj|c:\\users\\ysb\\source\\repos\\heritage\\heritage\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E948D25-7CFE-4523-8D9F-E8E812400A15}|heritage\\heritage.csproj|solutionrelative:heritage\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E948D25-7CFE-4523-8D9F-E8E812400A15}|heritage\\heritage.csproj|c:\\users\\ysb\\source\\repos\\heritage\\heritage\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E948D25-7CFE-4523-8D9F-E8E812400A15}|heritage\\heritage.csproj|solutionrelative:heritage\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E948D25-7CFE-4523-8D9F-E8E812400A15}|heritage\\heritage.csproj|c:\\users\\ysb\\source\\repos\\heritage\\heritage\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E948D25-7CFE-4523-8D9F-E8E812400A15}|heritage\\heritage.csproj|solutionrelative:heritage\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\ysb\\source\\repos\\heritage\\heritage\\Cat.cs",
+              "RelativeDocumentMoniker": "heritage\\Cat.cs",
+              "ToolTip": "C:\\Users\\ysb\\source\\repos\\heritage\\heritage\\Cat.cs",
+              "RelativeToolTip": "heritage\\Cat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T02:49:11.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\ysb\\source\\repos\\heritage\\heritage\\Dog.cs",
+              "RelativeDocumentMoniker": "heritage\\Dog.cs",
+              "ToolTip": "C:\\Users\\ysb\\source\\repos\\heritage\\heritage\\Dog.cs",
+              "RelativeToolTip": "heritage\\Dog.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T02:30:16.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\ysb\\source\\repos\\heritage\\heritage\\Animal.cs",
+              "RelativeDocumentMoniker": "heritage\\Animal.cs",
+              "ToolTip": "C:\\Users\\ysb\\source\\repos\\heritage\\heritage\\Animal.cs",
+              "RelativeToolTip": "heritage\\Animal.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T02:26:13.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ysb\\source\\repos\\heritage\\heritage\\Form1.cs",
+              "RelativeDocumentMoniker": "heritage\\Form1.cs",
+              "ToolTip": "C:\\Users\\ysb\\source\\repos\\heritage\\heritage\\Form1.cs",
+              "RelativeToolTip": "heritage\\Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwCcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T02:23:30.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\ysb\\source\\repos\\heritage\\heritage\\Form1.cs",
+              "RelativeDocumentMoniker": "heritage\\Form1.cs",
+              "ToolTip": "C:\\Users\\ysb\\source\\repos\\heritage\\heritage\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "heritage\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T02:23:19.852Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

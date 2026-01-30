@@ -1,0 +1,10 @@
+C:\Users\ysb\source\repos\class_prac\class_prac\bin\Debug\class_prac.exe.config
+C:\Users\ysb\source\repos\class_prac\class_prac\bin\Debug\class_prac.exe
+C:\Users\ysb\source\repos\class_prac\class_prac\bin\Debug\class_prac.pdb
+C:\Users\ysb\source\repos\class_prac\class_prac\obj\Debug\class_prac.csproj.AssemblyReference.cache
+C:\Users\ysb\source\repos\class_prac\class_prac\obj\Debug\class_prac.Form1.resources
+C:\Users\ysb\source\repos\class_prac\class_prac\obj\Debug\class_prac.Properties.Resources.resources
+C:\Users\ysb\source\repos\class_prac\class_prac\obj\Debug\class_prac.csproj.GenerateResource.cache
+C:\Users\ysb\source\repos\class_prac\class_prac\obj\Debug\class_prac.csproj.CoreCompileInputs.cache
+C:\Users\ysb\source\repos\class_prac\class_prac\obj\Debug\class_prac.exe
+C:\Users\ysb\source\repos\class_prac\class_prac\obj\Debug\class_prac.pdb

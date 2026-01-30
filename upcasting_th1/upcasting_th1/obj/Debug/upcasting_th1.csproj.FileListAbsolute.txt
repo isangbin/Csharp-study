@@ -1,0 +1,10 @@
+C:\Users\ysb\source\repos\upcasting_th1\upcasting_th1\obj\Debug\upcasting_th1.csproj.AssemblyReference.cache
+C:\Users\ysb\source\repos\upcasting_th1\upcasting_th1\obj\Debug\upcasting_th1.Form1.resources
+C:\Users\ysb\source\repos\upcasting_th1\upcasting_th1\obj\Debug\upcasting_th1.Properties.Resources.resources
+C:\Users\ysb\source\repos\upcasting_th1\upcasting_th1\obj\Debug\upcasting_th1.csproj.GenerateResource.cache
+C:\Users\ysb\source\repos\upcasting_th1\upcasting_th1\obj\Debug\upcasting_th1.csproj.CoreCompileInputs.cache
+C:\Users\ysb\source\repos\upcasting_th1\upcasting_th1\bin\Debug\upcasting_th1.exe.config
+C:\Users\ysb\source\repos\upcasting_th1\upcasting_th1\bin\Debug\upcasting_th1.exe
+C:\Users\ysb\source\repos\upcasting_th1\upcasting_th1\bin\Debug\upcasting_th1.pdb
+C:\Users\ysb\source\repos\upcasting_th1\upcasting_th1\obj\Debug\upcasting_th1.exe
+C:\Users\ysb\source\repos\upcasting_th1\upcasting_th1\obj\Debug\upcasting_th1.pdb

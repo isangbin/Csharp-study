@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ysb\\source\\repos\\upcasting_th1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D0E52D7-FFFA-470F-AA86-D4DDE891446A}|upcasting_th1\\upcasting_th1.csproj|c:\\users\\ysb\\source\\repos\\upcasting_th1\\upcasting_th1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D0E52D7-FFFA-470F-AA86-D4DDE891446A}|upcasting_th1\\upcasting_th1.csproj|solutionrelative:upcasting_th1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D0E52D7-FFFA-470F-AA86-D4DDE891446A}|upcasting_th1\\upcasting_th1.csproj|c:\\users\\ysb\\source\\repos\\upcasting_th1\\upcasting_th1\\won.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D0E52D7-FFFA-470F-AA86-D4DDE891446A}|upcasting_th1\\upcasting_th1.csproj|solutionrelative:upcasting_th1\\won.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D0E52D7-FFFA-470F-AA86-D4DDE891446A}|upcasting_th1\\upcasting_th1.csproj|c:\\users\\ysb\\source\\repos\\upcasting_th1\\upcasting_th1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D0E52D7-FFFA-470F-AA86-D4DDE891446A}|upcasting_th1\\upcasting_th1.csproj|solutionrelative:upcasting_th1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D0E52D7-FFFA-470F-AA86-D4DDE891446A}|upcasting_th1\\upcasting_th1.csproj|c:\\users\\ysb\\source\\repos\\upcasting_th1\\upcasting_th1\\yuan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D0E52D7-FFFA-470F-AA86-D4DDE891446A}|upcasting_th1\\upcasting_th1.csproj|solutionrelative:upcasting_th1\\yuan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D0E52D7-FFFA-470F-AA86-D4DDE891446A}|upcasting_th1\\upcasting_th1.csproj|c:\\users\\ysb\\source\\repos\\upcasting_th1\\upcasting_th1\\dollar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D0E52D7-FFFA-470F-AA86-D4DDE891446A}|upcasting_th1\\upcasting_th1.csproj|solutionrelative:upcasting_th1\\dollar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D0E52D7-FFFA-470F-AA86-D4DDE891446A}|upcasting_th1\\upcasting_th1.csproj|c:\\users\\ysb\\source\\repos\\upcasting_th1\\upcasting_th1\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D0E52D7-FFFA-470F-AA86-D4DDE891446A}|upcasting_th1\\upcasting_th1.csproj|solutionrelative:upcasting_th1\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Yuan.cs",
+              "DocumentMoniker": "C:\\Users\\ysb\\source\\repos\\upcasting_th1\\upcasting_th1\\Yuan.cs",
+              "RelativeDocumentMoniker": "upcasting_th1\\Yuan.cs",
+              "ToolTip": "C:\\Users\\ysb\\source\\repos\\upcasting_th1\\upcasting_th1\\Yuan.cs",
+              "RelativeToolTip": "upcasting_th1\\Yuan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T04:03:26.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dollar.cs",
+              "DocumentMoniker": "C:\\Users\\ysb\\source\\repos\\upcasting_th1\\upcasting_th1\\Dollar.cs",
+              "RelativeDocumentMoniker": "upcasting_th1\\Dollar.cs",
+              "ToolTip": "C:\\Users\\ysb\\source\\repos\\upcasting_th1\\upcasting_th1\\Dollar.cs",
+              "RelativeToolTip": "upcasting_th1\\Dollar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T04:01:00.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Won.cs",
+              "DocumentMoniker": "C:\\Users\\ysb\\source\\repos\\upcasting_th1\\upcasting_th1\\Won.cs",
+              "RelativeDocumentMoniker": "upcasting_th1\\Won.cs",
+              "ToolTip": "C:\\Users\\ysb\\source\\repos\\upcasting_th1\\upcasting_th1\\Won.cs",
+              "RelativeToolTip": "upcasting_th1\\Won.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvxkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T03:55:40.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ysb\\source\\repos\\upcasting_th1\\upcasting_th1\\Form1.cs",
+              "RelativeDocumentMoniker": "upcasting_th1\\Form1.cs",
+              "ToolTip": "C:\\Users\\ysb\\source\\repos\\upcasting_th1\\upcasting_th1\\Form1.cs",
+              "RelativeToolTip": "upcasting_th1\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T03:48:51.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "C:\\Users\\ysb\\source\\repos\\upcasting_th1\\upcasting_th1\\Currency.cs",
+              "RelativeDocumentMoniker": "upcasting_th1\\Currency.cs",
+              "ToolTip": "C:\\Users\\ysb\\source\\repos\\upcasting_th1\\upcasting_th1\\Currency.cs",
+              "RelativeToolTip": "upcasting_th1\\Currency.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T03:48:47.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\ysb\\source\\repos\\upcasting_th1\\upcasting_th1\\Form1.cs",
+              "RelativeDocumentMoniker": "upcasting_th1\\Form1.cs",
+              "ToolTip": "C:\\Users\\ysb\\source\\repos\\upcasting_th1\\upcasting_th1\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "upcasting_th1\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T03:48:25.131Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

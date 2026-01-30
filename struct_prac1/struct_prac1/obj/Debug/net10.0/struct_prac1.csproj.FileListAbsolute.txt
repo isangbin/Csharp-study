@@ -1,0 +1,14 @@
+C:\Users\ysb\source\repos\struct_prac1\struct_prac1\bin\Debug\net10.0\struct_prac1.exe
+C:\Users\ysb\source\repos\struct_prac1\struct_prac1\bin\Debug\net10.0\struct_prac1.deps.json
+C:\Users\ysb\source\repos\struct_prac1\struct_prac1\bin\Debug\net10.0\struct_prac1.runtimeconfig.json
+C:\Users\ysb\source\repos\struct_prac1\struct_prac1\bin\Debug\net10.0\struct_prac1.dll
+C:\Users\ysb\source\repos\struct_prac1\struct_prac1\bin\Debug\net10.0\struct_prac1.pdb
+C:\Users\ysb\source\repos\struct_prac1\struct_prac1\obj\Debug\net10.0\struct_prac1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ysb\source\repos\struct_prac1\struct_prac1\obj\Debug\net10.0\struct_prac1.AssemblyInfoInputs.cache
+C:\Users\ysb\source\repos\struct_prac1\struct_prac1\obj\Debug\net10.0\struct_prac1.AssemblyInfo.cs
+C:\Users\ysb\source\repos\struct_prac1\struct_prac1\obj\Debug\net10.0\struct_prac1.csproj.CoreCompileInputs.cache
+C:\Users\ysb\source\repos\struct_prac1\struct_prac1\obj\Debug\net10.0\struct_prac1.dll
+C:\Users\ysb\source\repos\struct_prac1\struct_prac1\obj\Debug\net10.0\refint\struct_prac1.dll
+C:\Users\ysb\source\repos\struct_prac1\struct_prac1\obj\Debug\net10.0\struct_prac1.pdb
+C:\Users\ysb\source\repos\struct_prac1\struct_prac1\obj\Debug\net10.0\struct_prac1.genruntimeconfig.cache
+C:\Users\ysb\source\repos\struct_prac1\struct_prac1\obj\Debug\net10.0\ref\struct_prac1.dll

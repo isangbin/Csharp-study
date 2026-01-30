@@ -1,0 +1,10 @@
+C:\Users\ysb\source\repos\simpleRpg\simpleRpg\obj\Debug\simpleRpg.csproj.AssemblyReference.cache
+C:\Users\ysb\source\repos\simpleRpg\simpleRpg\obj\Debug\simpleRpg.Form1.resources
+C:\Users\ysb\source\repos\simpleRpg\simpleRpg\obj\Debug\simpleRpg.Properties.Resources.resources
+C:\Users\ysb\source\repos\simpleRpg\simpleRpg\obj\Debug\simpleRpg.csproj.GenerateResource.cache
+C:\Users\ysb\source\repos\simpleRpg\simpleRpg\obj\Debug\simpleRpg.csproj.CoreCompileInputs.cache
+C:\Users\ysb\source\repos\simpleRpg\simpleRpg\bin\Debug\simpleRpg.exe.config
+C:\Users\ysb\source\repos\simpleRpg\simpleRpg\bin\Debug\simpleRpg.exe
+C:\Users\ysb\source\repos\simpleRpg\simpleRpg\bin\Debug\simpleRpg.pdb
+C:\Users\ysb\source\repos\simpleRpg\simpleRpg\obj\Debug\simpleRpg.exe
+C:\Users\ysb\source\repos\simpleRpg\simpleRpg\obj\Debug\simpleRpg.pdb

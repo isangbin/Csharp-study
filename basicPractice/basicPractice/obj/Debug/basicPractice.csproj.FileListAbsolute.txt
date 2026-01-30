@@ -1,0 +1,10 @@
+C:\Users\ysb\source\repos\basicPractice\basicPractice\bin\Debug\basicPractice.exe.config
+C:\Users\ysb\source\repos\basicPractice\basicPractice\bin\Debug\basicPractice.exe
+C:\Users\ysb\source\repos\basicPractice\basicPractice\bin\Debug\basicPractice.pdb
+C:\Users\ysb\source\repos\basicPractice\basicPractice\obj\Debug\basicPractice.csproj.AssemblyReference.cache
+C:\Users\ysb\source\repos\basicPractice\basicPractice\obj\Debug\basicPractice.Form1.resources
+C:\Users\ysb\source\repos\basicPractice\basicPractice\obj\Debug\basicPractice.Properties.Resources.resources
+C:\Users\ysb\source\repos\basicPractice\basicPractice\obj\Debug\basicPractice.csproj.GenerateResource.cache
+C:\Users\ysb\source\repos\basicPractice\basicPractice\obj\Debug\basicPractice.csproj.CoreCompileInputs.cache
+C:\Users\ysb\source\repos\basicPractice\basicPractice\obj\Debug\basicPractice.exe
+C:\Users\ysb\source\repos\basicPractice\basicPractice\obj\Debug\basicPractice.pdb

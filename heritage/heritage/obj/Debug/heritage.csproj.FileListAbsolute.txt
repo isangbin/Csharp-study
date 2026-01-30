@@ -1,0 +1,10 @@
+C:\Users\ysb\source\repos\heritage\heritage\bin\Debug\heritage.exe.config
+C:\Users\ysb\source\repos\heritage\heritage\bin\Debug\heritage.exe
+C:\Users\ysb\source\repos\heritage\heritage\bin\Debug\heritage.pdb
+C:\Users\ysb\source\repos\heritage\heritage\obj\Debug\heritage.csproj.AssemblyReference.cache
+C:\Users\ysb\source\repos\heritage\heritage\obj\Debug\heritage.Form1.resources
+C:\Users\ysb\source\repos\heritage\heritage\obj\Debug\heritage.Properties.Resources.resources
+C:\Users\ysb\source\repos\heritage\heritage\obj\Debug\heritage.csproj.GenerateResource.cache
+C:\Users\ysb\source\repos\heritage\heritage\obj\Debug\heritage.csproj.CoreCompileInputs.cache
+C:\Users\ysb\source\repos\heritage\heritage\obj\Debug\heritage.exe
+C:\Users\ysb\source\repos\heritage\heritage\obj\Debug\heritage.pdb

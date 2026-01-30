@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ysb\\source\\repos\\collections_th1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9908D19-8CA5-414B-8140-516497E8871D}|collections_th1\\collections_th1.csproj|c:\\users\\ysb\\source\\repos\\collections_th1\\collections_th1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9908D19-8CA5-414B-8140-516497E8871D}|collections_th1\\collections_th1.csproj|solutionrelative:collections_th1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9908D19-8CA5-414B-8140-516497E8871D}|collections_th1\\collections_th1.csproj|c:\\users\\ysb\\source\\repos\\collections_th1\\collections_th1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9908D19-8CA5-414B-8140-516497E8871D}|collections_th1\\collections_th1.csproj|solutionrelative:collections_th1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9908D19-8CA5-414B-8140-516497E8871D}|collections_th1\\collections_th1.csproj|c:\\users\\ysb\\source\\repos\\collections_th1\\collections_th1\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9908D19-8CA5-414B-8140-516497E8871D}|collections_th1\\collections_th1.csproj|solutionrelative:collections_th1\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Users\\ysb\\source\\repos\\collections_th1\\collections_th1\\Device.cs",
+              "RelativeDocumentMoniker": "collections_th1\\Device.cs",
+              "ToolTip": "C:\\Users\\ysb\\source\\repos\\collections_th1\\collections_th1\\Device.cs",
+              "RelativeToolTip": "collections_th1\\Device.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T03:54:35.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ysb\\source\\repos\\collections_th1\\collections_th1\\Form1.cs",
+              "RelativeDocumentMoniker": "collections_th1\\Form1.cs",
+              "ToolTip": "C:\\Users\\ysb\\source\\repos\\collections_th1\\collections_th1\\Form1.cs",
+              "RelativeToolTip": "collections_th1\\Form1.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAASwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T03:51:42.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\ysb\\source\\repos\\collections_th1\\collections_th1\\Form1.cs",
+              "RelativeDocumentMoniker": "collections_th1\\Form1.cs",
+              "ToolTip": "C:\\Users\\ysb\\source\\repos\\collections_th1\\collections_th1\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "collections_th1\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T03:50:20.828Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

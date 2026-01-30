@@ -1,0 +1,10 @@
+C:\Users\ysb\source\repos\delegate_eventhandler\delegate_eventhandler\bin\Debug\delegate_eventhandler.exe.config
+C:\Users\ysb\source\repos\delegate_eventhandler\delegate_eventhandler\bin\Debug\delegate_eventhandler.exe
+C:\Users\ysb\source\repos\delegate_eventhandler\delegate_eventhandler\bin\Debug\delegate_eventhandler.pdb
+C:\Users\ysb\source\repos\delegate_eventhandler\delegate_eventhandler\obj\Debug\delegate_eventhandler.csproj.AssemblyReference.cache
+C:\Users\ysb\source\repos\delegate_eventhandler\delegate_eventhandler\obj\Debug\delegate_eventhandler.Form1.resources
+C:\Users\ysb\source\repos\delegate_eventhandler\delegate_eventhandler\obj\Debug\delegate_eventhandler.Properties.Resources.resources
+C:\Users\ysb\source\repos\delegate_eventhandler\delegate_eventhandler\obj\Debug\delegate_eventhandler.csproj.GenerateResource.cache
+C:\Users\ysb\source\repos\delegate_eventhandler\delegate_eventhandler\obj\Debug\delegate_eventhandler.csproj.CoreCompileInputs.cache
+C:\Users\ysb\source\repos\delegate_eventhandler\delegate_eventhandler\obj\Debug\delegate_eventhandler.exe
+C:\Users\ysb\source\repos\delegate_eventhandler\delegate_eventhandler\obj\Debug\delegate_eventhandler.pdb

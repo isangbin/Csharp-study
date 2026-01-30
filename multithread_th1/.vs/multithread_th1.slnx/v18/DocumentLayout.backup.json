@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ysb\\source\\repos\\multithread_th1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6A8950-6D0F-427B-A49F-ADB7BF5113A8}|multithread_th1\\multithread_th1.csproj|c:\\users\\ysb\\source\\repos\\multithread_th1\\multithread_th1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6A8950-6D0F-427B-A49F-ADB7BF5113A8}|multithread_th1\\multithread_th1.csproj|solutionrelative:multithread_th1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6A8950-6D0F-427B-A49F-ADB7BF5113A8}|multithread_th1\\multithread_th1.csproj|c:\\users\\ysb\\source\\repos\\multithread_th1\\multithread_th1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D6A8950-6D0F-427B-A49F-ADB7BF5113A8}|multithread_th1\\multithread_th1.csproj|solutionrelative:multithread_th1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6A8950-6D0F-427B-A49F-ADB7BF5113A8}|multithread_th1\\multithread_th1.csproj|c:\\users\\ysb\\source\\repos\\multithread_th1\\multithread_th1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6A8950-6D0F-427B-A49F-ADB7BF5113A8}|multithread_th1\\multithread_th1.csproj|solutionrelative:multithread_th1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ysb\\source\\repos\\multithread_th1\\multithread_th1\\Form1.cs",
+              "RelativeDocumentMoniker": "multithread_th1\\Form1.cs",
+              "ToolTip": "C:\\Users\\ysb\\source\\repos\\multithread_th1\\multithread_th1\\Form1.cs",
+              "RelativeToolTip": "multithread_th1\\Form1.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAADwv4cAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T01:18:52.963Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ysb\\source\\repos\\multithread_th1\\multithread_th1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "multithread_th1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\ysb\\source\\repos\\multithread_th1\\multithread_th1\\Form1.Designer.cs",
+              "RelativeToolTip": "multithread_th1\\Form1.Designer.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAmwEEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T02:02:10.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\ysb\\source\\repos\\multithread_th1\\multithread_th1\\Form1.cs",
+              "RelativeDocumentMoniker": "multithread_th1\\Form1.cs",
+              "ToolTip": "C:\\Users\\ysb\\source\\repos\\multithread_th1\\multithread_th1\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "multithread_th1\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T01:18:00.903Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

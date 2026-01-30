@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ysb\\source\\repos\\interface_th1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE00A48F-345D-491E-9BDE-7C70EB21C569}|interface_th1\\interface_th1.csproj|c:\\users\\ysb\\source\\repos\\interface_th1\\interface_th1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE00A48F-345D-491E-9BDE-7C70EB21C569}|interface_th1\\interface_th1.csproj|solutionrelative:interface_th1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE00A48F-345D-491E-9BDE-7C70EB21C569}|interface_th1\\interface_th1.csproj|c:\\users\\ysb\\source\\repos\\interface_th1\\interface_th1\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE00A48F-345D-491E-9BDE-7C70EB21C569}|interface_th1\\interface_th1.csproj|solutionrelative:interface_th1\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE00A48F-345D-491E-9BDE-7C70EB21C569}|interface_th1\\interface_th1.csproj|c:\\users\\ysb\\source\\repos\\interface_th1\\interface_th1\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE00A48F-345D-491E-9BDE-7C70EB21C569}|interface_th1\\interface_th1.csproj|solutionrelative:interface_th1\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE00A48F-345D-491E-9BDE-7C70EB21C569}|interface_th1\\interface_th1.csproj|c:\\users\\ysb\\source\\repos\\interface_th1\\interface_th1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE00A48F-345D-491E-9BDE-7C70EB21C569}|interface_th1\\interface_th1.csproj|solutionrelative:interface_th1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE00A48F-345D-491E-9BDE-7C70EB21C569}|interface_th1\\interface_th1.csproj|c:\\users\\ysb\\source\\repos\\interface_th1\\interface_th1\\bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE00A48F-345D-491E-9BDE-7C70EB21C569}|interface_th1\\interface_th1.csproj|solutionrelative:interface_th1\\bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE00A48F-345D-491E-9BDE-7C70EB21C569}|interface_th1\\interface_th1.csproj|c:\\users\\ysb\\source\\repos\\interface_th1\\interface_th1\\imovable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE00A48F-345D-491E-9BDE-7C70EB21C569}|interface_th1\\interface_th1.csproj|solutionrelative:interface_th1\\imovable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bicycle.cs",
+              "DocumentMoniker": "C:\\Users\\ysb\\source\\repos\\interface_th1\\interface_th1\\Bicycle.cs",
+              "RelativeDocumentMoniker": "interface_th1\\Bicycle.cs",
+              "ToolTip": "C:\\Users\\ysb\\source\\repos\\interface_th1\\interface_th1\\Bicycle.cs",
+              "RelativeToolTip": "interface_th1\\Bicycle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T00:32:21.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\ysb\\source\\repos\\interface_th1\\interface_th1\\Car.cs",
+              "RelativeDocumentMoniker": "interface_th1\\Car.cs",
+              "ToolTip": "C:\\Users\\ysb\\source\\repos\\interface_th1\\interface_th1\\Car.cs",
+              "RelativeToolTip": "interface_th1\\Car.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T00:26:29.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\ysb\\source\\repos\\interface_th1\\interface_th1\\Vehicle.cs",
+              "RelativeDocumentMoniker": "interface_th1\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\ysb\\source\\repos\\interface_th1\\interface_th1\\Vehicle.cs",
+              "RelativeToolTip": "interface_th1\\Vehicle.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvxoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T00:21:10.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMovable.cs",
+              "DocumentMoniker": "C:\\Users\\ysb\\source\\repos\\interface_th1\\interface_th1\\IMovable.cs",
+              "RelativeDocumentMoniker": "interface_th1\\IMovable.cs",
+              "ToolTip": "C:\\Users\\ysb\\source\\repos\\interface_th1\\interface_th1\\IMovable.cs",
+              "RelativeToolTip": "interface_th1\\IMovable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T00:17:34.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ysb\\source\\repos\\interface_th1\\interface_th1\\Form1.cs",
+              "RelativeDocumentMoniker": "interface_th1\\Form1.cs",
+              "ToolTip": "C:\\Users\\ysb\\source\\repos\\interface_th1\\interface_th1\\Form1.cs",
+              "RelativeToolTip": "interface_th1\\Form1.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwBwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T00:12:08.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\ysb\\source\\repos\\interface_th1\\interface_th1\\Form1.cs",
+              "RelativeDocumentMoniker": "interface_th1\\Form1.cs",
+              "ToolTip": "C:\\Users\\ysb\\source\\repos\\interface_th1\\interface_th1\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "interface_th1\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T00:11:58.951Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

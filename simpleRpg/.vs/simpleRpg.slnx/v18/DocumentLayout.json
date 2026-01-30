@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ysb\\source\\repos\\simpleRpg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10AE8D92-37DC-41EA-ACC0-55982BE96596}|simpleRpg\\simpleRpg.csproj|c:\\users\\ysb\\source\\repos\\simplerpg\\simplerpg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AE8D92-37DC-41EA-ACC0-55982BE96596}|simpleRpg\\simpleRpg.csproj|solutionrelative:simplerpg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AE8D92-37DC-41EA-ACC0-55982BE96596}|simpleRpg\\simpleRpg.csproj|c:\\users\\ysb\\source\\repos\\simplerpg\\simplerpg\\ork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AE8D92-37DC-41EA-ACC0-55982BE96596}|simpleRpg\\simpleRpg.csproj|solutionrelative:simplerpg\\ork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AE8D92-37DC-41EA-ACC0-55982BE96596}|simpleRpg\\simpleRpg.csproj|c:\\users\\ysb\\source\\repos\\simplerpg\\simplerpg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10AE8D92-37DC-41EA-ACC0-55982BE96596}|simpleRpg\\simpleRpg.csproj|solutionrelative:simplerpg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AE8D92-37DC-41EA-ACC0-55982BE96596}|simpleRpg\\simpleRpg.csproj|c:\\users\\ysb\\source\\repos\\simplerpg\\simplerpg\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AE8D92-37DC-41EA-ACC0-55982BE96596}|simpleRpg\\simpleRpg.csproj|solutionrelative:simplerpg\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AE8D92-37DC-41EA-ACC0-55982BE96596}|simpleRpg\\simpleRpg.csproj|c:\\users\\ysb\\source\\repos\\simplerpg\\simplerpg\\slime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AE8D92-37DC-41EA-ACC0-55982BE96596}|simpleRpg\\simpleRpg.csproj|solutionrelative:simplerpg\\slime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AE8D92-37DC-41EA-ACC0-55982BE96596}|simpleRpg\\simpleRpg.csproj|c:\\users\\ysb\\source\\repos\\simplerpg\\simplerpg\\sorcerer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AE8D92-37DC-41EA-ACC0-55982BE96596}|simpleRpg\\simpleRpg.csproj|solutionrelative:simplerpg\\sorcerer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AE8D92-37DC-41EA-ACC0-55982BE96596}|simpleRpg\\simpleRpg.csproj|c:\\users\\ysb\\source\\repos\\simplerpg\\simplerpg\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AE8D92-37DC-41EA-ACC0-55982BE96596}|simpleRpg\\simpleRpg.csproj|solutionrelative:simplerpg\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AE8D92-37DC-41EA-ACC0-55982BE96596}|simpleRpg\\simpleRpg.csproj|c:\\users\\ysb\\source\\repos\\simplerpg\\simplerpg\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AE8D92-37DC-41EA-ACC0-55982BE96596}|simpleRpg\\simpleRpg.csproj|solutionrelative:simplerpg\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ork.cs",
+              "DocumentMoniker": "C:\\Users\\ysb\\source\\repos\\simpleRpg\\simpleRpg\\Ork.cs",
+              "RelativeDocumentMoniker": "simpleRpg\\Ork.cs",
+              "ToolTip": "C:\\Users\\ysb\\source\\repos\\simpleRpg\\simpleRpg\\Ork.cs",
+              "RelativeToolTip": "simpleRpg\\Ork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T04:48:53.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Slime.cs",
+              "DocumentMoniker": "C:\\Users\\ysb\\source\\repos\\simpleRpg\\simpleRpg\\Slime.cs",
+              "RelativeDocumentMoniker": "simpleRpg\\Slime.cs",
+              "ToolTip": "C:\\Users\\ysb\\source\\repos\\simpleRpg\\simpleRpg\\Slime.cs",
+              "RelativeToolTip": "simpleRpg\\Slime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T04:48:42.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sorcerer.cs",
+              "DocumentMoniker": "C:\\Users\\ysb\\source\\repos\\simpleRpg\\simpleRpg\\Sorcerer.cs",
+              "RelativeDocumentMoniker": "simpleRpg\\Sorcerer.cs",
+              "ToolTip": "C:\\Users\\ysb\\source\\repos\\simpleRpg\\simpleRpg\\Sorcerer.cs",
+              "RelativeToolTip": "simpleRpg\\Sorcerer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T04:06:09.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ysb\\source\\repos\\simpleRpg\\simpleRpg\\Form1.cs",
+              "RelativeDocumentMoniker": "simpleRpg\\Form1.cs",
+              "ToolTip": "C:\\Users\\ysb\\source\\repos\\simpleRpg\\simpleRpg\\Form1.cs",
+              "RelativeToolTip": "simpleRpg\\Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T01:56:54.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\ysb\\source\\repos\\simpleRpg\\simpleRpg\\Player.cs",
+              "RelativeDocumentMoniker": "simpleRpg\\Player.cs",
+              "ToolTip": "C:\\Users\\ysb\\source\\repos\\simpleRpg\\simpleRpg\\Player.cs",
+              "RelativeToolTip": "simpleRpg\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T01:57:11.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "C:\\Users\\ysb\\source\\repos\\simpleRpg\\simpleRpg\\Warrior.cs",
+              "RelativeDocumentMoniker": "simpleRpg\\Warrior.cs",
+              "ToolTip": "C:\\Users\\ysb\\source\\repos\\simpleRpg\\simpleRpg\\Warrior.cs",
+              "RelativeToolTip": "simpleRpg\\Warrior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T04:03:38.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\Users\\ysb\\source\\repos\\simpleRpg\\simpleRpg\\Monster.cs",
+              "RelativeDocumentMoniker": "simpleRpg\\Monster.cs",
+              "ToolTip": "C:\\Users\\ysb\\source\\repos\\simpleRpg\\simpleRpg\\Monster.cs",
+              "RelativeToolTip": "simpleRpg\\Monster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T03:50:42.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\ysb\\source\\repos\\simpleRpg\\simpleRpg\\Form1.cs",
+              "RelativeDocumentMoniker": "simpleRpg\\Form1.cs",
+              "ToolTip": "C:\\Users\\ysb\\source\\repos\\simpleRpg\\simpleRpg\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "simpleRpg\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T01:54:28.645Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

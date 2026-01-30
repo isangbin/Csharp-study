@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ysb\\source\\repos\\upcasting_prac1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57B5F317-C21B-4B25-8425-3E5EAB998F96}|upcasting_prac1\\upcasting_prac1.csproj|c:\\users\\ysb\\source\\repos\\upcasting_prac1\\upcasting_prac1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B5F317-C21B-4B25-8425-3E5EAB998F96}|upcasting_prac1\\upcasting_prac1.csproj|solutionrelative:upcasting_prac1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B5F317-C21B-4B25-8425-3E5EAB998F96}|upcasting_prac1\\upcasting_prac1.csproj|c:\\users\\ysb\\source\\repos\\upcasting_prac1\\upcasting_prac1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57B5F317-C21B-4B25-8425-3E5EAB998F96}|upcasting_prac1\\upcasting_prac1.csproj|solutionrelative:upcasting_prac1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B5F317-C21B-4B25-8425-3E5EAB998F96}|upcasting_prac1\\upcasting_prac1.csproj|c:\\users\\ysb\\source\\repos\\upcasting_prac1\\upcasting_prac1\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B5F317-C21B-4B25-8425-3E5EAB998F96}|upcasting_prac1\\upcasting_prac1.csproj|solutionrelative:upcasting_prac1\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B5F317-C21B-4B25-8425-3E5EAB998F96}|upcasting_prac1\\upcasting_prac1.csproj|c:\\users\\ysb\\source\\repos\\upcasting_prac1\\upcasting_prac1\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B5F317-C21B-4B25-8425-3E5EAB998F96}|upcasting_prac1\\upcasting_prac1.csproj|solutionrelative:upcasting_prac1\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B5F317-C21B-4B25-8425-3E5EAB998F96}|upcasting_prac1\\upcasting_prac1.csproj|c:\\users\\ysb\\source\\repos\\upcasting_prac1\\upcasting_prac1\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B5F317-C21B-4B25-8425-3E5EAB998F96}|upcasting_prac1\\upcasting_prac1.csproj|solutionrelative:upcasting_prac1\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B5F317-C21B-4B25-8425-3E5EAB998F96}|upcasting_prac1\\upcasting_prac1.csproj|c:\\users\\ysb\\source\\repos\\upcasting_prac1\\upcasting_prac1\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B5F317-C21B-4B25-8425-3E5EAB998F96}|upcasting_prac1\\upcasting_prac1.csproj|solutionrelative:upcasting_prac1\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\ysb\\source\\repos\\upcasting_prac1\\upcasting_prac1\\Cat.cs",
+              "RelativeDocumentMoniker": "upcasting_prac1\\Cat.cs",
+              "ToolTip": "C:\\Users\\ysb\\source\\repos\\upcasting_prac1\\upcasting_prac1\\Cat.cs",
+              "RelativeToolTip": "upcasting_prac1\\Cat.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T04:24:37.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\Users\\ysb\\source\\repos\\upcasting_prac1\\upcasting_prac1\\Bird.cs",
+              "RelativeDocumentMoniker": "upcasting_prac1\\Bird.cs",
+              "ToolTip": "C:\\Users\\ysb\\source\\repos\\upcasting_prac1\\upcasting_prac1\\Bird.cs",
+              "RelativeToolTip": "upcasting_prac1\\Bird.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T04:24:49.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\ysb\\source\\repos\\upcasting_prac1\\upcasting_prac1\\Dog.cs",
+              "RelativeDocumentMoniker": "upcasting_prac1\\Dog.cs",
+              "ToolTip": "C:\\Users\\ysb\\source\\repos\\upcasting_prac1\\upcasting_prac1\\Dog.cs",
+              "RelativeToolTip": "upcasting_prac1\\Dog.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T04:24:28.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ysb\\source\\repos\\upcasting_prac1\\upcasting_prac1\\Form1.cs",
+              "RelativeDocumentMoniker": "upcasting_prac1\\Form1.cs",
+              "ToolTip": "C:\\Users\\ysb\\source\\repos\\upcasting_prac1\\upcasting_prac1\\Form1.cs",
+              "RelativeToolTip": "upcasting_prac1\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T04:23:08.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\ysb\\source\\repos\\upcasting_prac1\\upcasting_prac1\\Form1.cs",
+              "RelativeDocumentMoniker": "upcasting_prac1\\Form1.cs",
+              "ToolTip": "C:\\Users\\ysb\\source\\repos\\upcasting_prac1\\upcasting_prac1\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "upcasting_prac1\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T04:23:03.153Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\ysb\\source\\repos\\upcasting_prac1\\upcasting_prac1\\Animal.cs",
+              "RelativeDocumentMoniker": "upcasting_prac1\\Animal.cs",
+              "ToolTip": "C:\\Users\\ysb\\source\\repos\\upcasting_prac1\\upcasting_prac1\\Animal.cs",
+              "RelativeToolTip": "upcasting_prac1\\Animal.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T04:24:09.755Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

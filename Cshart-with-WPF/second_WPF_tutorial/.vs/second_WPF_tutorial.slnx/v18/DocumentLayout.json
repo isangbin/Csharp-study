@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ysb\\Desktop\\csharp-study\\Cshart-with-WPF\\second_WPF_tutorial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D76499E-6D29-4467-827F-E6420385E2CF}|second_WPF_tutorial\\second_WPF_tutorial.csproj|c:\\users\\ysb\\desktop\\csharp-study\\cshart-with-wpf\\second_wpf_tutorial\\second_wpf_tutorial\\expensereportpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4D76499E-6D29-4467-827F-E6420385E2CF}|second_WPF_tutorial\\second_WPF_tutorial.csproj|solutionrelative:second_wpf_tutorial\\expensereportpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D76499E-6D29-4467-827F-E6420385E2CF}|second_WPF_tutorial\\second_WPF_tutorial.csproj|c:\\users\\ysb\\desktop\\csharp-study\\cshart-with-wpf\\second_wpf_tutorial\\second_wpf_tutorial\\expensereportpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D76499E-6D29-4467-827F-E6420385E2CF}|second_WPF_tutorial\\second_WPF_tutorial.csproj|solutionrelative:second_wpf_tutorial\\expensereportpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D76499E-6D29-4467-827F-E6420385E2CF}|second_WPF_tutorial\\second_WPF_tutorial.csproj|c:\\users\\ysb\\desktop\\csharp-study\\cshart-with-wpf\\second_wpf_tutorial\\second_wpf_tutorial\\expenseithome.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D76499E-6D29-4467-827F-E6420385E2CF}|second_WPF_tutorial\\second_WPF_tutorial.csproj|solutionrelative:second_wpf_tutorial\\expenseithome.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D76499E-6D29-4467-827F-E6420385E2CF}|second_WPF_tutorial\\second_WPF_tutorial.csproj|c:\\users\\ysb\\desktop\\csharp-study\\cshart-with-wpf\\second_wpf_tutorial\\second_wpf_tutorial\\expenseithome.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4D76499E-6D29-4467-827F-E6420385E2CF}|second_WPF_tutorial\\second_WPF_tutorial.csproj|solutionrelative:second_wpf_tutorial\\expenseithome.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D76499E-6D29-4467-827F-E6420385E2CF}|second_WPF_tutorial\\second_WPF_tutorial.csproj|c:\\users\\ysb\\desktop\\csharp-study\\cshart-with-wpf\\second_wpf_tutorial\\second_wpf_tutorial\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4D76499E-6D29-4467-827F-E6420385E2CF}|second_WPF_tutorial\\second_WPF_tutorial.csproj|solutionrelative:second_wpf_tutorial\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExpenseReportPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ysb\\Desktop\\csharp-study\\Cshart-with-WPF\\second_WPF_tutorial\\second_WPF_tutorial\\ExpenseReportPage.xaml.cs",
+              "RelativeDocumentMoniker": "second_WPF_tutorial\\ExpenseReportPage.xaml.cs",
+              "ToolTip": "C:\\Users\\ysb\\Desktop\\csharp-study\\Cshart-with-WPF\\second_WPF_tutorial\\second_WPF_tutorial\\ExpenseReportPage.xaml.cs",
+              "RelativeToolTip": "second_WPF_tutorial\\ExpenseReportPage.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T05:14:41.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExpenseReportPage.xaml",
+              "DocumentMoniker": "C:\\Users\\ysb\\Desktop\\csharp-study\\Cshart-with-WPF\\second_WPF_tutorial\\second_WPF_tutorial\\ExpenseReportPage.xaml",
+              "RelativeDocumentMoniker": "second_WPF_tutorial\\ExpenseReportPage.xaml",
+              "ToolTip": "C:\\Users\\ysb\\Desktop\\csharp-study\\Cshart-with-WPF\\second_WPF_tutorial\\second_WPF_tutorial\\ExpenseReportPage.xaml",
+              "RelativeToolTip": "second_WPF_tutorial\\ExpenseReportPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-02T02:35:44.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExpenseItHome.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ysb\\Desktop\\csharp-study\\Cshart-with-WPF\\second_WPF_tutorial\\second_WPF_tutorial\\ExpenseItHome.xaml.cs",
+              "RelativeDocumentMoniker": "second_WPF_tutorial\\ExpenseItHome.xaml.cs",
+              "ToolTip": "C:\\Users\\ysb\\Desktop\\csharp-study\\Cshart-with-WPF\\second_WPF_tutorial\\second_WPF_tutorial\\ExpenseItHome.xaml.cs",
+              "RelativeToolTip": "second_WPF_tutorial\\ExpenseItHome.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T05:18:55.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExpenseItHome.xaml",
+              "DocumentMoniker": "C:\\Users\\ysb\\Desktop\\csharp-study\\Cshart-with-WPF\\second_WPF_tutorial\\second_WPF_tutorial\\ExpenseItHome.xaml",
+              "RelativeDocumentMoniker": "second_WPF_tutorial\\ExpenseItHome.xaml",
+              "ToolTip": "C:\\Users\\ysb\\Desktop\\csharp-study\\Cshart-with-WPF\\second_WPF_tutorial\\second_WPF_tutorial\\ExpenseItHome.xaml",
+              "RelativeToolTip": "second_WPF_tutorial\\ExpenseItHome.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-02T02:30:26.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\ysb\\Desktop\\csharp-study\\Cshart-with-WPF\\second_WPF_tutorial\\second_WPF_tutorial\\App.xaml",
+              "RelativeDocumentMoniker": "second_WPF_tutorial\\App.xaml",
+              "ToolTip": "C:\\Users\\ysb\\Desktop\\csharp-study\\Cshart-with-WPF\\second_WPF_tutorial\\second_WPF_tutorial\\App.xaml",
+              "RelativeToolTip": "second_WPF_tutorial\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-02T04:07:21.99Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
